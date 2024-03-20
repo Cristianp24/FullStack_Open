@@ -1,1 +1,0 @@
-//aqui van a ir los ejercicios 0.5 y 0.6 de la parte 0 del curso.
